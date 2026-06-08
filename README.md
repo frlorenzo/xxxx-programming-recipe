@@ -1,6 +1,6 @@
 Language Fundamentals
 =====================
-Below are programming language topics for C/C++, Python, Rust, TypeScript 
+Below are programming language topics for Python, Rust, Zig. 
 
 Fundamentals
 ------------
