@@ -1,6 +1,6 @@
 Language Fundamentals
 =====================
-Below are programming language topics for Python, Rust, Zig. 
+Below are programming language topics for [Python](https://www.python.org/), [Rust](https://rust-lang.org/), [Zig](https://ziglang.org/). 
 
 Fundamentals
 ------------
